@@ -1,0 +1,2 @@
+<h1 align="center">Aplicativo - Gasto Viagem</h1>
+<p align="center">Aplicativo Android escrito em Kotlin, onde consiste em realizar o cálculo do custo de uma viagem. Calculando Distância, Preço do Combustível e Autonomia do Veículo</p>
